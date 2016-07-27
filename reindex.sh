@@ -1,3 +1,5 @@
+# This Bash Script performs re-indexing by executing the command ./reindex.sh
+# Please place this file in <JIRA-Installation-directory>/bin
 #!/bin/sh
 
 ########################################## Settings ##########################################
