@@ -1,3 +1,4 @@
+#test line
 #!C:/strawberry/perl/bin/perl.exe
 ###################################################################################
 # Re-Index.pl by Jason Hensler
